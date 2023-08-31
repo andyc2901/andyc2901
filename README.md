@@ -1,6 +1,8 @@
 ### Hi there, I'm Andrew, Welcome to my GitHub!
 ## About Me
-I'm currently a **junior data engineer** in training with Sparta Global! Before that, I studied Physics with Astronomy at the University of Nottingham, where I became proficient in both Python and MATLAB. If you'd like to know more about the projects I completed at university or the exercises I'm working through with Sparta, be sure to check out some of my Repositories!
+I'm currently a **junior data engineer** at Sparta Global! Before that, I studied Physics with Astronomy at the University of Nottingham, where I became proficient in both Python and MATLAB. If you'd like to know more about the projects I completed at university or the exercises I'm working through with Sparta, be sure to check out some of my Repositories!
+
+
 
 <!--
 **andyc2901/andyc2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
